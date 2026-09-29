@@ -1,4 +1,4 @@
-# 📰 Bayelsa News AI Automation
+# 📰 Bayelsa News AI Automation.
 
 An AI-powered news automation platform built with **n8n, WhatsApp Business Cloud API, Supabase, Gemini, and The News API**.
 
